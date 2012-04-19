@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nginx", "nginx\nginx.vcproj", "{BF55EC4A-D742-43BE-9D48-23572EE7003B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ghttpd", "ghttpd\ghttpd.vcproj", "{A2311D1C-8EAA-4B24-9407-B9B6AD5A9025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF55EC4A-D742-43BE-9D48-23572EE7003B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF55EC4A-D742-43BE-9D48-23572EE7003B}.Debug|Win32.Build.0 = Debug|Win32
+		{BF55EC4A-D742-43BE-9D48-23572EE7003B}.Release|Win32.ActiveCfg = Release|Win32
+		{BF55EC4A-D742-43BE-9D48-23572EE7003B}.Release|Win32.Build.0 = Release|Win32
+		{A2311D1C-8EAA-4B24-9407-B9B6AD5A9025}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A2311D1C-8EAA-4B24-9407-B9B6AD5A9025}.Debug|Win32.Build.0 = Debug|Win32
+		{A2311D1C-8EAA-4B24-9407-B9B6AD5A9025}.Release|Win32.ActiveCfg = Release|Win32
+		{A2311D1C-8EAA-4B24-9407-B9B6AD5A9025}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
